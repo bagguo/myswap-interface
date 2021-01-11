@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://bagguo.github.io/MySwap.git",
+  "homepage": "https://bagguo.github.io/MySwap",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
